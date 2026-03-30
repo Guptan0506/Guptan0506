@@ -68,18 +68,27 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guptan0506&theme=github#gh-light-mode-only" alt="GitHub stats (light)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guptan0506&theme=github_dark#gh-dark-mode-only" alt="GitHub stats (dark)" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guptan0506&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guptan0506&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guptan0506&theme=github" alt="GitHub stats card" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guptan0506&theme=github#gh-light-mode-only" alt="Top languages fallback (light)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guptan0506&theme=github_dark#gh-dark-mode-only" alt="Top languages fallback (dark)" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guptan0506&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guptan0506&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guptan0506&theme=github" alt="Top languages card" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Guptan0506&theme=default&hide_border=true&background=FFFFFF00&cache_seconds=86400#gh-light-mode-only" alt="GitHub streak (light)" />
-  <img src="https://streak-stats.demolab.com?user=Guptan0506&theme=github-dark-blue&hide_border=true&background=00000000&cache_seconds=86400#gh-dark-mode-only" alt="GitHub streak (dark)" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Guptan0506&theme=github-dark-blue&hide_border=true&background=00000000&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Guptan0506&theme=default&hide_border=true&background=FFFFFF00&cache_seconds=86400" />
+    <img src="https://streak-stats.demolab.com?user=Guptan0506&theme=default&hide_border=true&background=FFFFFF00&cache_seconds=86400" alt="GitHub streak card" />
+  </picture>
 </p>
 
 ## Connect With Me
